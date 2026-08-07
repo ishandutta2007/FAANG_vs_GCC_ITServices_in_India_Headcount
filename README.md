@@ -11,6 +11,8 @@ The python script `tech_headcounts.py` contains historical headcount data from F
 
 The visualization highlights the rapid expansion of GCCs and the steady scaling of Indian IT services, as well as the specialized presence of top-tier global tech firms (FAANG/MAAMA) in India.
 
+![India Tech Engineering Workforce](assets/india_tech_engineering_workforce.png)
+
 ## Requirements
 
 *   Python 3.x
