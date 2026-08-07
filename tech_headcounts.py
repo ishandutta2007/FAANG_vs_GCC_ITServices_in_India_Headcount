@@ -60,6 +60,13 @@ plt.plot(
     label='FAANG / MAAMA'
 )
 
+for i, txt in enumerate(it_services):
+    plt.annotate(f"{txt}", (years[i], it_services[i]), textcoords="offset points", xytext=(0,5), ha='center', fontsize=8)
+for i, txt in enumerate(gcc):
+    plt.annotate(f"{txt}", (years[i], gcc[i]), textcoords="offset points", xytext=(0,5), ha='center', fontsize=8)
+for i, txt in enumerate(faang):
+    plt.annotate(f"{txt}", (years[i], faang[i]), textcoords="offset points", xytext=(0,5), ha='center', fontsize=8)
+
 plt.title(
     "Engineering Workforce in India's Technology Sector",
     fontsize=18,
