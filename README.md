@@ -2,6 +2,12 @@
 
 # 🇮🇳 FAANG vs GCC vs IT Services in India Headcount 📊
 
+<p align="left">
+  <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
+</p>
+
+> **Discover the definitive analysis of the Indian technology workforce. This repository tracks, compares, and visualizes headcount trends across FAANG/MAAMA companies, Global Capability Centers (GCCs), and traditional IT Services in India, providing valuable insights for industry professionals and analysts.**
+
 This project visualizes the growth of the engineering workforce in India's technology sector over the past two decades, comparing three major segments:
 *   🏢 **Indian IT Services**
 *   🌍 **Global Capability Centers (GCCs)**
